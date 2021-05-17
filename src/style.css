@@ -1,0 +1,28 @@
+.title-red{
+    padding-left: 5%;
+    color: red;
+    font-size: 1.2rem
+}
+#bd{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    padding:  2% 10% 2% 10% ;
+}
+.image{
+    width: 50%;
+    height:50%;
+    padding-left: 25%;
+    padding-top: 5%;
+}
+#video_home {
+
+    width: 50%;
+    height: 50%;
+    padding-left: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#main-div{
+    background-color: #282c34;
+
+}
